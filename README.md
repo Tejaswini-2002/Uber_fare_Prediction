@@ -2,7 +2,7 @@
 
 This project involves building a machine learning model to predict Uber ride fares. The data used for the project is from Kaggle. 
 ## Data Cleanup 
-The first step in any data analytics project is to analyse the data. This includes cleaning the data, checking for missing values, and visualising the data to identify any patterns or trends. The data cleaning process required that rows with missing values ​​and duplicate values ​​be removed. The data were also tested for outliers. 
+The first step in any data analytics project is to analyse the data. This includes cleaning the data, checking for missing values, and visualising the data to identify any patterns or trends. The data cleaning process required that rows with missing values ​​and duplicate values ​​be removed. The data were also tested for outliers.
 ## Data Visualization 
 The data was visualised using plots. The comments revealed interesting patterns and trends. For example, average fares were higher during peak hours than at other times of the day. Average fares were highest at the beginning of the month. 
 ## Machine Learning 
